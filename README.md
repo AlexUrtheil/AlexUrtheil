@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AlexUrtheil
-- 👀 I’m interested in the environment, geography, math
+- 👀 I’m interested in the environment, geography, reading, Oldschool Runescape
 - 🌱 I’m currently learning Russian, Python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me aurtheil@uoguelph.ca
 
 <!---
